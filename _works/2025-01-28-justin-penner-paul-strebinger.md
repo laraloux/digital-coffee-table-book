@@ -1,17 +1,22 @@
 ---
 layout: work-result
 author: Justin Penner, Paul Strebinger
+related-folder: 2024-strebinger-penner-pp
 title: Browsererweiterung zur automatisierten Erkennung von
   Accessibility-Problemen im Web mit Accesstra
 date: 2025-01-28
-slideshow: false
+result-website: https://www.accesstra.tech/de/
+result-repo: https://github.com/visualsofpaul/accesstra-extension
+slideshow: true
+final-presentation: 8-Z2Ax1KE24
 research-diary: false
 type: Praxisprojekt
 status: in-evaluation
-visibility: unpublished
+visibility: published
 keywords: Barrierefreiheit im Web, Accessibility-Analyse, Chrome Extension,
   automatisierte Fehlererkennung
 main-examiner: true
+thumbnail: /assets/uploads/photo-log-paul-strebinger-justin-penner-2024-18-11-05.png
 ---
 Die vorliegende Arbeit beschreibt die Entwicklung einer Browsererweiterung zur automatisierten Erkennung von Accessibility-Problemen im Web. Ziel des Projekts war es, eine Lösung zu schaffen, die Webentwickler*innen und Organisationen dabei unterstützt, Barrierefreiheit frühzeitig in den Entwicklungsprozess zu integrieren.
 

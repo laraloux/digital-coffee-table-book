@@ -7,7 +7,7 @@ date: 2025-03-18
 slideshow: false
 research-diary: false
 type: Bachelorarbeit
-status: in-preparation
+status: in-progress
 visibility: unpublished
 keywords: Machine Learning, Watermarks
 main-examiner: true
