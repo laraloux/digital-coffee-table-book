@@ -8,7 +8,7 @@ date: 2025-04-06
 slideshow: false
 research-diary: false
 type: Praxisprojekt
-status: in-preparation
+status: in-progress
 visibility: unpublished
 keywords: KI, Design
 main-examiner: true

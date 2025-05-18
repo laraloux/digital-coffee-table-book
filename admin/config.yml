@@ -34,7 +34,7 @@ collections:
     create: true
     sortable_fields: ['date', 'title', 'type', 'author']
     slug: "{{date}}-{{author}}"
-    summary: "{{date}} // {{author}} // {{type}}"
+    summary: "{{date}} // {{author}} // {{type}} // {{status}}"
     editor:
       preview: false
     fields:

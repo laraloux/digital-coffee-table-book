@@ -2,12 +2,12 @@ const worksDataUrl = "state-of-works.json";
 
 const factorsByType = {
   "Praxisprojekt": 1,
-  "Bachelorarbeit": 0.4,
-  "Masterarbeit": 0.6
+  "Bachelorarbeit": 1,
+  "Masterarbeit": 1
 };
 
 const maxWorksByType = {
-  "Praxisprojekt": 6,
+  "Praxisprojekt": 10,
   "Bachelorarbeit": 6,
   "Masterarbeit": 2
 };
@@ -53,7 +53,10 @@ const showCapacity = (calcOverall) => {
   const types = Object.keys(calcOverall);
 
   types.map(type => {
+
+    
     const maxWorks = maxWorksByType[type];
+
     const works = calcOverall[type];
     const shotcut = shotcuts[type];
     const targets = document.querySelectorAll(`[data-js-capacity-${shotcut}]`);
