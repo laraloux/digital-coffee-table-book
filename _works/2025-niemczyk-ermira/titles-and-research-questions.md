@@ -24,10 +24,10 @@
 #Thesen mit den dargestellten Parameter:
 
 1. Interaktive Repräsentation der Medieninformatik durch KI-generierte Visualisierung: Entwicklung eines prototypischen Webtools auf Basis von Text-to-Image Systemen.
-2. 2.Entwicklung eines Prototyps für ein interaktives Webtool zur visuellen Repräsentation der Medieninformatik unter Einsatz generativer KI-Technologien auf Basis von Text-to-Image-Algorithmen.
+2. Entwicklung eines Prototyps für ein interaktives Webtool zur visuellen Repräsentation der Medieninformatik unter Einsatz generativer KI-Technologien auf Basis von Text-to-Image-Algorithmen.
 3. Interaktive Visualisierung der Medieninformatik: Prototyping eines KI-basierten Webtools mit Text-to-Image-Technologien
-4.  Interaktive Studiengangsorientierung durch Künstiche Intelligenz: Ein prototypisches Webtool zur Repräsentation der Medieninformatik mittels Text-to-Image Verfahren.
-5.  Künstliche Intelligenz als visueller Wegweiser. Prototying eines Webtools zur interaktiven Studienorientierung in der Medieninformatik mit Hilfe von Text-to-Image Technologien.
+4. Interaktive Studiengangsorientierung durch Künstiche Intelligenz: Ein prototypisches Webtool zur Repräsentation der Medieninformatik mittels Text-to-Image Verfahren.
+5. Künstliche Intelligenz als visueller Wegweiser. Prototying eines Webtools zur interaktiven Studienorientierung in der Medieninformatik mit Hilfe von Text-to-Image Technologien.
 
 #Zielbilder
 
