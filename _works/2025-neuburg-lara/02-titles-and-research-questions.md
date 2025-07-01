@@ -1,4 +1,4 @@
-# Titel und Forschungsfrage
+# Titel und Forschungsfragen
 
 ## Titel
 
