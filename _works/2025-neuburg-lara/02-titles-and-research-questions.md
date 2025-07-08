@@ -1,5 +1,10 @@
 # Titel und Forschungsfragen
 
+## Finaler Titel
+
+Analyse von analogen Kunstbüchern und für eine explorative Nutzerinteraktion im digitalen Raum.
+Analyse von analogen Kunstbüchern und Möglichkeiten für eine explorative Nutzerinteraktion im digitalen Raum.
+
 ## Titel
 
 - Erforschung von interaktiven und explorativen Darstellungsformen zwischen Seiten und Screens
