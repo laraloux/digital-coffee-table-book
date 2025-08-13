@@ -2,8 +2,7 @@
 
 ## Finaler Titel
 
-Analyse von analogen Kunstbüchern und für eine explorative Nutzerinteraktion im digitalen Raum.
-Analyse von analogen Kunstbüchern und Möglichkeiten für eine explorative Nutzerinteraktion im digitalen Raum.
+Methodische Analyse analoger Kunst- und Designpublikationen als Grundlage für interaktive Gestaltungskonzepte im digitalen Kontext.
 
 ## Titel
 
