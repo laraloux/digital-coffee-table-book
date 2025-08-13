@@ -2,6 +2,8 @@
 
 ## Finaler Titel
 
+### Cranach Meisterwerke als digitales Coffee Table Book
+
 Methodische Analyse analoger Kunst- und Designpublikationen als Grundlage für interaktive Gestaltungskonzepte im digitalen Kontext.
 
 ## Titel
